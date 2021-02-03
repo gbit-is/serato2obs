@@ -1,4 +1,4 @@
-# serato2obs
+# Serato-2-OBS
 A dirty and ugly solution to semi-automate getting the currently playing Serato song to OBS
 
 # What is this ?
@@ -10,7 +10,7 @@ Demo: [Youtube Link](https://youtu.be/9t13AfDCgu0)
 
 # How it works
 .... in a bad graph
-![GitHub Logo](https://raw.githubusercontent.com/gbit-is/serato2obs/main/seratopythoncrap.png)
+![Graph](https://raw.githubusercontent.com/gbit-is/serato2obs/main/serato2osbGraph.jpg)
 
 
 # How to use 
@@ -30,7 +30,8 @@ Because I didn't spend the extra 15 minutes to combine the two
 Not a question, but yes. It is
 
 ### Why did you publish this ?
-I am hoping this could be a jumping off point for someone else to make something better
+I am hoping this could be a jumping off point for someone else to make something better   
+Which is why the code is so heavily commented to explain what I am trying to do there
 
 ### I just want the data, not the selector and flask
 just run the flask service with a --data flag, it will return a list and won't even import flask
